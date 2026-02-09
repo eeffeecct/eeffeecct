@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img src="download.jfif" width="50%" />
   </div>
-<br/>
+<br/> -->
 
 # Hi there, I'm Timofey 👋
 
