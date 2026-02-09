@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="_like no tomorrow_.gif" width="100%" />
+  </div>
+<br/>
+
 # Hi there, I'm Timofey 👋
 
 ### 🚀 Java Backend Developer | Student at MSTU STANKIN
